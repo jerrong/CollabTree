@@ -1,0 +1,393 @@
+----item----
+version: 1
+id: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+database: core
+path: /sitecore/content/Home
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Home
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+Network/16x16/home.png
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+30
+----field----
+field: {A791F095-2521-4B4D-BEF9-21DDA221F608}
+name: __Style
+key: __style
+content-length: 16
+
+font-weight:bold
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{B203C16D-DC37-4EE0-980B-9A1AF68B52AE}|{30235F43-6242-4107-87AB-5267E34EDF0C}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 223
+
+ar|extranet\Guest|pe|+item:read|pd|+item:read|ar|sitecore\##Everyone|pe|+item:create|+item:delete|+item:publish|+item:read|+item:read|+item:write|pd|+item:create|+item:delete|+item:publish|+item:read|+item:read|+item:write|
+----version----
+language: da
+version: 1
+revision: 67edac03-adb2-484d-a296-b5b393e26ef7
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 22
+
+Velkommen til Sitecore
+----field----
+field: {D97D88A6-EAB7-4F79-B150-C689C7FD7D22}
+name: Text
+key: text
+content-length: 1611
+
+<div>welcome til sitecore< div>
+<div>&nbsp < div>
+<div>this knude repræsenterer sitecores client < div>
+<div>&nbsp < div>
+<div>do ikke modificer dette element < div>
+<div>&nbsp < div>
+<div>best regards< div>
+<div>the sitecore udvikling team <br  ><br  ><br  ><br  ><br  ><br  ><br  ><br  ><br  >< div>
+<p align= center ><u>lead programmers<br  >< u>ole thrane<br  >jakob christensen<br  ><br  ><br  ><u>programmers< u><br  >dmitry kostenko<br  >alexey rusakov<br  >dmitry dzygin<br  ><br  ><br  ><u>additional architectual design<br  >< u>michael seifert<br  >lars fløe nielsen<br  >kim hornung<br  ><br  ><br  ><u>documentation< u><br  >kerry belrose<br  >alexander kokoshyn<br  ><br  ><br  ><u>professional services<br  >< u>jesper jørgensen<br  ><br  ><br  ><u>operations<br  >< u>dmitry vasilinenko<br  ><br  ><br  ><u>support &amp  qa< u><br  >alexander tsvirchkov<br  >denis shamarakov<br  >alexander shyba<br  >andrey komarov<br  >andrey kovalenko<br  >igor zhukovsky<br  >inna marchenko<br  >ivan sharamok<br  >sergey marchenko<br  >vitaliy starodub<br  >yan sklyarenko<br  >alexander yaremenko<br  >alexey romaniuha<br  ><br  ><br  ><u>sales<br  >< u>torben brams<br  >thomas g  andersen<br  >henrik andersen<br  >susanne jørgensen<br  >lila carlyle<br  ><br  ><br  ><u>solution architects<br  >< u>frank mcdonald<br  >kim bækgaard<br  ><br  ><br  ><u>accounting<br  >< u>dorte hansen<br  >jette hansen<br  >karina mortensen<br  ><br  ><br  ><u>office management<br  >< u>josephine lund<br  ><br  ><br  ><u>thanks to<br  >< u>alex de groot<br  >peter johanson<br  >jetbrains resharper<br  >< p>
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 59
+
+Elementet Forside er standard startpunkt for en hjemmeside.
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 23
+
+Velkommen til Sitecore.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 34
+
+20111123T085945:634576355856173870
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+67edac03-adb2-484d-a296-b5b393e26ef7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111123T085945:634576355856955225
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: bc196c15-6861-4806-b5b3-50d3afa75522
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 5
+
+Start
+----field----
+field: {D97D88A6-EAB7-4F79-B150-C689C7FD7D22}
+name: Text
+key: text
+content-length: 1603
+
+<div>Welcome to Sitecore</div>
+<div>&nbsp;</div>
+<div>This node represents the Sitecore Client.</div>
+<div>&nbsp;</div>
+<div>DO NOT MODIFY THIS ITEM.</div>
+<div>&nbsp;</div>
+<div>Best regards</div>
+<div>The Sitecore Development Team.<br /><br /><br /><br /><br /><br /><br /><br /><br /></div>
+<p align="center"><u>Lead Programmers<br /></u>Ole Thrane<br />Jakob Christensen<br /><br /><br /><u>Programmers</u><br />Dmitry Kostenko<br />Alexey Rusakov<br />Dmitry Dzygin<br /><br /><br /><u>Additional Architectual Design<br /></u>Michael Seifert<br />Lars Fløe Nielsen<br />Kim Hornung<br /><br /><br /><u>Documentation</u><br />Kerry Belrose<br />Alexander Kokoshyn<br /><br /><br /><u>Professional Services<br /></u>Jesper Jørgensen<br /><br /><br /><u>Operations<br /></u>Dmitry Vasilinenko<br /><br /><br /><u>Support &amp; QA</u><br />Alexander Tsvirchkov<br />Denis Shamarakov<br />Alexander Shyba<br />Andrey Komarov<br />Andrey Kovalenko<br />Igor Zhukovsky<br />Inna Marchenko<br />Ivan Sharamok<br />Sergey Marchenko<br />Vitaliy Starodub<br />Yan Sklyarenko<br />Alexander Yaremenko<br />Alexey Romaniuha<br /><br /><br /><u>Sales<br /></u>Torben Brams<br />Thomas G. Andersen<br />Henrik Andersen<br />Susanne Jørgensen<br />Lila Carlyle<br /><br /><br /><u>Solution Architects<br /></u>Frank McDonald<br />Kim Bækgaard<br /><br /><br /><u>Accounting<br /></u>Dorte Hansen<br />Jette Hansen<br />Karina Mortensen<br /><br /><br /><u>Office Management<br /></u>Josephine Lund<br /><br /><br /><u>Thanks to<br /></u>Alex de Groot<br />Peter Johanson<br />JetBrains ReSharper<br /></p>
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 58
+
+Das Home Item ist der vorgegebene Startpunkt einer Website
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 22
+
+Willkommen zu Sitecore
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 34
+
+20111123T091054:634576362540221416
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bc196c15-6861-4806-b5b3-50d3afa75522
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111123T091054:634576362541471392
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: eb0a5a5b-06ab-42fc-a627-0c8d5012a53a
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 19
+
+Welcome to Sitecore
+----field----
+field: {D97D88A6-EAB7-4F79-B150-C689C7FD7D22}
+name: Text
+key: text
+content-length: 1607
+
+
+		<div>Welcome to Sitecore</div>
+<div>&nbsp;</div>
+<div>This node represents the Sitecore Client.</div>
+<div>&nbsp;</div>
+<div>DO NOT MODIFY THIS ITEM.</div>
+<div>&nbsp;</div>
+<div>Best regards</div>
+<div>The Sitecore Development Team.<br /><br /><br /><br /><br /><br /><br /><br /><br /></div>
+<p align="center"><u>Lead Programmers<br /></u>Ole Thrane<br />Jakob Christensen<br /><br /><br /><u>Programmers</u><br />Dmitry Kostenko<br />Alexey Rusakov<br />Dmitry Dzygin<br /><br /><br /><u>Additional Architectual Design<br /></u>Michael Seifert<br />Lars Fløe Nielsen<br />Kim Hornung<br /><br /><br /><u>Documentation</u><br />Kerry Belrose<br />Alexander Kokoshyn<br /><br /><br /><u>Professional Services<br /></u>Jesper Jørgensen<br /><br /><br /><u>Operations<br /></u>Dmitry Vasilinenko<br /><br /><br /><u>Support &amp; QA</u><br />Alexander Tsvirchkov<br />Denis Shamarakov<br />Alexander Shyba<br />Andrey Komarov<br />Andrey Kovalenko<br />Igor Zhukovsky<br />Inna Marchenko<br />Ivan Sharamok<br />Sergey Marchenko<br />Vitaliy Starodub<br />Yan Sklyarenko<br />Alexander Yaremenko<br />Alexey Romaniuha<br /><br /><br /><u>Sales<br /></u>Torben Brams<br />Thomas G. Andersen<br />Henrik Andersen<br />Susanne Jørgensen<br />Lila Carlyle<br /><br /><br /><u>Solution Architects<br /></u>Frank McDonald<br />Kim Bækgaard<br /><br /><br /><u>Accounting<br /></u>Dorte Hansen<br />Jette Hansen<br />Karina Mortensen<br /><br /><br /><u>Office Management<br /></u>Josephine Lund<br /><br /><br /><u>Thanks to<br /></u>Alex de Groot<br />Peter Johanson<br />JetBrains ReSharper<br /></p>
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 58
+
+The Home item is the default starting point for a website.
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 20
+
+Welcome to Sitecore.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 15
+
+20050503T155919
+----field----
+field: {4C346442-E859-4EFD-89B2-44AEDF467D21}
+name: __Valid to
+key: __valid to
+content-length: 15
+
+20050603T155919
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20050503T155919
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\JohnB
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eb0a5a5b-06ab-42fc-a627-0c8d5012a53a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20080620T140756:633495676765910361
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: f9f16b61-a8e4-4a06-8902-a5e4cc640535
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 23
+
+サイトコア Web プラットフォームへようこそ
+----field----
+field: {D97D88A6-EAB7-4F79-B150-C689C7FD7D22}
+name: Text
+key: text
+content-length: 1603
+
+<div>Welcome to Sitecore</div>
+<div>&nbsp;</div>
+<div>This node represents the Sitecore Client.</div>
+<div>&nbsp;</div>
+<div>DO NOT MODIFY THIS ITEM.</div>
+<div>&nbsp;</div>
+<div>Best regards</div>
+<div>The Sitecore Development Team.<br /><br /><br /><br /><br /><br /><br /><br /><br /></div>
+<p align="center"><u>Lead Programmers<br /></u>Ole Thrane<br />Jakob Christensen<br /><br /><br /><u>Programmers</u><br />Dmitry Kostenko<br />Alexey Rusakov<br />Dmitry Dzygin<br /><br /><br /><u>Additional Architectual Design<br /></u>Michael Seifert<br />Lars Fløe Nielsen<br />Kim Hornung<br /><br /><br /><u>Documentation</u><br />Kerry Belrose<br />Alexander Kokoshyn<br /><br /><br /><u>Professional Services<br /></u>Jesper Jørgensen<br /><br /><br /><u>Operations<br /></u>Dmitry Vasilinenko<br /><br /><br /><u>Support &amp; QA</u><br />Alexander Tsvirchkov<br />Denis Shamarakov<br />Alexander Shyba<br />Andrey Komarov<br />Andrey Kovalenko<br />Igor Zhukovsky<br />Inna Marchenko<br />Ivan Sharamok<br />Sergey Marchenko<br />Vitaliy Starodub<br />Yan Sklyarenko<br />Alexander Yaremenko<br />Alexey Romaniuha<br /><br /><br /><u>Sales<br /></u>Torben Brams<br />Thomas G. Andersen<br />Henrik Andersen<br />Susanne Jørgensen<br />Lila Carlyle<br /><br /><br /><u>Solution Architects<br /></u>Frank McDonald<br />Kim Bækgaard<br /><br /><br /><u>Accounting<br /></u>Dorte Hansen<br />Jette Hansen<br />Karina Mortensen<br /><br /><br /><u>Office Management<br /></u>Josephine Lund<br /><br /><br /><u>Thanks to<br /></u>Alex de Groot<br />Peter Johanson<br />JetBrains ReSharper<br /></p>
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 30
+
+ホーム アイテムは Web サイトのデフォルトの開始場所です
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 23
+
+サイトコア Web プラットフォームへようこそ
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 34
+
+20111123T092339:634576370193217647
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f9f16b61-a8e4-4a06-8902-a5e4cc640535
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111123T092339:634576370194467631
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
